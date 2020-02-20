@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GPA Calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GPA_Calculator_jar</output-path>
+    <root id="archive" name="GPA Calculator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/sample/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="GPA Calculator" />
+    </root>
+  </artifact>
+</component>

@@ -23,3 +23,7 @@
 
 ![](images/errorprompt3.png)
 ### The application prompts an error message when the user tries to add more marks when the total wieght has already reached 100 percent in the table.
+
+![](images/delete.png)
+### The student can easily remove a mark if they choose to by easly clicking on the mark in the table then clicking the delete button.
+

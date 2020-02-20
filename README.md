@@ -27,3 +27,5 @@
 ![](images/delete.png)
 ### The student can easily remove a mark if they choose to by easly clicking on the mark in the table then clicking the delete button.
 
+### This application was a fun application which was developed for a friend who has a hard time calculating his overall based on his current marks. You're free to download the source code and have fun with the application. Thanks for visting my page I hope I can inspire you to make projects as well:) .
+

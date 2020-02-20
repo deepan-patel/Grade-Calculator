@@ -15,3 +15,11 @@
 
 ![](images/calculate.png)
 ### Now the student is informed with their current overall in an alertbox, and the student can end the application or go back to make a few changes.
+
+![](images/errorprompt1.png)
+
+![](images/errorprompt2.png)
+### This application does a very good job when it comes to user input validation, and make it user friendly.
+
+![](images/errorprompt3.png)
+### The application prompts an error message when the user tries to add more marks when the total wieght has already reached 100 percent in the table.

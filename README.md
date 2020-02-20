@@ -10,3 +10,8 @@
 ![](images/add2.png)
 ### The student can add marks until the user has reaced a max total weight of 100.
 
+![](images/precalculate.png)
+### Once the student has inputted their upto date marks the student can click the calculate overall button to see their overall.
+
+![](images/calculate.png)
+### Now the student is informed with their current overall in an alertbox, and the student can end the application or go back to make a few changes.
